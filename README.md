@@ -35,7 +35,8 @@ Neural Networks and tuning the model to work well in test track.
 
 ## Author
 
-**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)** 
+**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**
+**[GUNTUKU SAI RISHITHA ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**
 
 
 ## Acknowledgments
